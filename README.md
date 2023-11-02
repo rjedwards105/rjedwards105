@@ -1,8 +1,7 @@
 - Hi, I’m @rjedwards105
 - I’m interested in software engineering and basketball.
-- I currently know how to code in python, html, java, css, and javascript. Also, I'm learning how to code in c++.
+- I currently have experience coding in Python, HTML, Java, CSS, and JavaScript. Also, I plan to learn how to code in C++.
 - I’m looking to collaborate on a project.
-- How to reach me: on discord @mix70
 
 <!---
 rjedwards105/rjedwards105 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
